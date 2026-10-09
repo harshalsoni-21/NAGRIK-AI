@@ -1,0 +1,38 @@
+======================================================================
+               NAGRIKAI DATA QUALITY AUDIT REPORT
+======================================================================
+Dataset Location: C:\Users\Harshal\OneDrive\Desktop\indian_garbage_problem\garbage-dataset
+Timestamp: Real-time scan verified
+
+DATASET SUMMARY:
+----------------------------------------------------------------------
+Total Images Scanned:     19,762
+Valid Clean Images:       19,762
+Corrupted Images:         0
+Duplicate Files Found:    0
+Suspiciously Small (<50px): 0
+Unsupported Formats:      0
+
+IMAGE DIMENSIONS ANALYSIS:
+----------------------------------------------------------------------
+Smallest Image (W x H):   100 x 71 px
+Largest Image (W x H):    7786 x 6283 px
+Average Dimension:        420.8 x 431.6 px
+
+CLASS DISTRIBUTION & IMBALANCE:
+----------------------------------------------------------------------
+battery         :    944 images (  4.8%)
+biological      :    997 images (  5.0%)
+cardboard       :  1,825 images (  9.2%)
+clothes         :  5,327 images ( 27.0%)
+glass           :  3,061 images ( 15.5%)
+metal           :  1,020 images (  5.2%)
+paper           :  1,680 images (  8.5%)
+plastic         :  1,984 images ( 10.0%)
+shoes           :  1,977 images ( 10.0%)
+trash           :    947 images (  4.8%)
+----------------------------------------------------------------------
+Total Classes: 10
+Imbalance Ratio (Max/Min): 5.64x
+Recommendation: Use weighted cross-entropy loss or balanced sampler for clothes/glass dominance.
+======================================================================

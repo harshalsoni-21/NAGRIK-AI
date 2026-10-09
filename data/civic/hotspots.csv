@@ -1,0 +1,11 @@
+hotspot_id,ward,latitude,longitude,priority_score,priority_level,primary_waste,recurrence_count,drain_risk,active_reports,status
+HOT-03,Ward 18 - Malleshwaram,13.0031,77.5643,100.0,CRITICAL,Plastic,16,CRITICAL,11,Action Required
+HOT-06,Ward 31 - Whitefield,12.9698,77.7499,83.0,CRITICAL,Plastic,7,CRITICAL,5,Action Required
+HOT-05,Ward 07 - Jayanagar,12.9299,77.5824,78.4,HIGH,Plastic,6,CRITICAL,6,Action Required
+HOT-01,Ward 23 - Koramangala,12.9352,77.6245,72.6,HIGH,Biological,6,CRITICAL,4,Action Required
+HOT-10,Ward 09 - Electronic City,12.8452,77.6602,72.6,HIGH,Biological,6,CRITICAL,4,Action Required
+HOT-08,Ward 28 - Rajajinagar,12.9982,77.553,68.0,HIGH,Biological,5,CRITICAL,5,Action Required
+HOT-09,Ward 52 - Basavanagudi,12.9421,77.5752,62.6,MEDIUM,Trash,4,CRITICAL,4,Action Required
+HOT-02,Ward 12 - Indiranagar,12.9784,77.6408,58.8,MEDIUM,Plastic,3,CRITICAL,2,Monitoring
+HOT-07,Ward 15 - HSR Layout,12.9121,77.6446,57.2,MEDIUM,Clothes,3,CRITICAL,3,Monitoring
+HOT-04,Ward 45 - Shivajinagar,12.9866,77.6012,39.9,LOW,Trash,1,HIGH,1,Monitoring

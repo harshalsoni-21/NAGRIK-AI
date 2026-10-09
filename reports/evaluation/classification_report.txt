@@ -1,0 +1,39 @@
+======================================================================
+                 NAGRIKAI MODEL EVALUATION REPORT
+======================================================================
+
+Test Accuracy:    74.00%
+Macro F1-Score:   67.31%
+Weighted F1-Score:72.84%
+Macro Precision:  76.87%
+Macro Recall:     66.10%
+
+PER-CLASS CLASSIFICATION BREAKDOWN:
+----------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+     Battery       0.67      0.83      0.74        12
+  Biological       1.00      0.80      0.89         5
+   Cardboard       0.50      0.85      0.63        13
+     Clothes       0.86      0.98      0.91        44
+       Glass       0.76      0.73      0.74        22
+       Metal       0.60      0.38      0.46         8
+       Paper       1.00      0.38      0.55        16
+     Plastic       0.57      0.73      0.64        11
+       Shoes       0.73      0.62      0.67        13
+       Trash       1.00      0.33      0.50         6
+
+    accuracy                           0.74       150
+   macro avg       0.77      0.66      0.67       150
+weighted avg       0.78      0.74      0.73       150
+
+
+STRONGEST CLASSES:
+  + Clothes: F1 = 91.5%
+  + Biological: F1 = 88.9%
+  + Glass: F1 = 74.4%
+
+WEAKEST CLASSES (Common Misclassification Targets):
+  - Paper: F1 = 54.5%
+  - Trash: F1 = 50.0%
+  - Metal: F1 = 46.2%

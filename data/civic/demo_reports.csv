@@ -1,0 +1,46 @@
+report_id,latitude,longitude,ward,waste_category,severity,drain_risk,status,timestamp,recurring
+NGK-1001,12.91388,77.6427,Ward 15 - HSR Layout,Clothes,MEDIUM,CRITICAL,Pending,2026-09-30 13:24,False
+NGK-1002,12.93051,77.58365,Ward 07 - Jayanagar,Plastic,HIGH,CRITICAL,Pending,2026-09-26 16:11,False
+NGK-1003,12.9306,77.58307,Ward 07 - Jayanagar,Plastic,MEDIUM,HIGH,Assigned,2026-09-24 18:46,False
+NGK-1004,13.00239,77.5672,Ward 18 - Malleshwaram,Trash,HIGH,HIGH,In Progress,2026-09-24 07:33,True
+NGK-1005,12.94489,77.57705,Ward 52 - Basavanagudi,Trash,HIGH,LOW,Assigned,2026-09-25 20:06,False
+NGK-1006,12.99541,77.55546,Ward 28 - Rajajinagar,Plastic,MEDIUM,CRITICAL,In Progress,2026-10-01 18:47,False
+NGK-1007,12.96699,77.75195,Ward 31 - Whitefield,Trash,CRITICAL,MEDIUM,Resolved,2026-09-28 16:49,True
+NGK-1008,12.91223,77.64737,Ward 15 - HSR Layout,Clothes,MEDIUM,CRITICAL,In Progress,2026-10-07 15:25,False
+NGK-1009,12.94088,77.57319,Ward 52 - Basavanagudi,Plastic,MEDIUM,CRITICAL,Assigned,2026-09-24 07:50,False
+NGK-1010,13.00434,77.56567,Ward 18 - Malleshwaram,Clothes,MEDIUM,HIGH,Pending,2026-10-06 05:06,True
+NGK-1011,12.9979,77.55057,Ward 28 - Rajajinagar,Trash,HIGH,HIGH,In Progress,2026-09-27 23:24,False
+NGK-1012,13.00293,77.56202,Ward 18 - Malleshwaram,Cardboard,HIGH,HIGH,Resolved,2026-10-01 01:01,True
+NGK-1013,12.94336,77.57287,Ward 52 - Basavanagudi,Trash,HIGH,LOW,In Progress,2026-10-02 00:21,False
+NGK-1014,12.98905,77.5997,Ward 45 - Shivajinagar,Trash,MEDIUM,HIGH,Pending,2026-09-28 04:27,True
+NGK-1015,12.97208,77.75065,Ward 31 - Whitefield,Plastic,MEDIUM,HIGH,Pending,2026-09-29 23:03,True
+NGK-1016,12.84293,77.65934,Ward 09 - Electronic City,Glass,HIGH,LOW,Pending,2026-09-29 01:33,True
+NGK-1017,13.00014,77.56436,Ward 18 - Malleshwaram,Trash,LOW,LOW,Assigned,2026-10-07 07:55,True
+NGK-1018,12.96811,77.75025,Ward 31 - Whitefield,Trash,MEDIUM,LOW,Pending,2026-10-03 21:03,True
+NGK-1019,13.00191,77.56301,Ward 18 - Malleshwaram,Plastic,MEDIUM,CRITICAL,Pending,2026-09-28 00:43,True
+NGK-1020,12.93601,77.62558,Ward 23 - Koramangala,Biological,HIGH,MEDIUM,In Progress,2026-09-25 06:16,True
+NGK-1021,12.99663,77.55437,Ward 28 - Rajajinagar,Trash,HIGH,HIGH,In Progress,2026-09-25 09:26,False
+NGK-1022,12.9331,77.62455,Ward 23 - Koramangala,Cardboard,MEDIUM,HIGH,Pending,2026-10-04 02:02,True
+NGK-1023,13.00219,77.56188,Ward 18 - Malleshwaram,Glass,MEDIUM,MEDIUM,Resolved,2026-10-03 14:08,True
+NGK-1024,12.93978,77.57775,Ward 52 - Basavanagudi,Metal,HIGH,LOW,Resolved,2026-10-01 21:39,False
+NGK-1025,12.93365,77.62206,Ward 23 - Koramangala,Metal,HIGH,CRITICAL,Assigned,2026-09-29 00:26,True
+NGK-1026,13.00524,77.56373,Ward 18 - Malleshwaram,Metal,CRITICAL,HIGH,Resolved,2026-10-03 11:52,True
+NGK-1027,13.00233,77.56694,Ward 18 - Malleshwaram,Battery,CRITICAL,HIGH,Assigned,2026-09-28 09:42,True
+NGK-1028,12.97955,77.64171,Ward 12 - Indiranagar,Plastic,MEDIUM,CRITICAL,Assigned,2026-10-04 13:55,True
+NGK-1029,13.0003,77.55395,Ward 28 - Rajajinagar,Biological,MEDIUM,LOW,Assigned,2026-09-27 13:05,False
+NGK-1030,12.97267,77.74982,Ward 31 - Whitefield,Glass,MEDIUM,MEDIUM,In Progress,2026-10-03 11:51,True
+NGK-1031,12.93337,77.62583,Ward 23 - Koramangala,Plastic,HIGH,HIGH,Pending,2026-10-07 07:05,True
+NGK-1032,12.9322,77.58389,Ward 07 - Jayanagar,Battery,CRITICAL,HIGH,Assigned,2026-10-01 20:49,False
+NGK-1033,13.00598,77.56175,Ward 18 - Malleshwaram,Trash,MEDIUM,LOW,In Progress,2026-09-29 08:19,True
+NGK-1034,12.84782,77.66138,Ward 09 - Electronic City,Biological,HIGH,LOW,Resolved,2026-09-26 02:10,True
+NGK-1035,12.84746,77.66164,Ward 09 - Electronic City,Cardboard,MEDIUM,HIGH,Assigned,2026-10-05 11:02,True
+NGK-1036,13.00164,77.56497,Ward 18 - Malleshwaram,Plastic,HIGH,HIGH,Pending,2026-09-25 02:56,True
+NGK-1037,13.00213,77.56355,Ward 18 - Malleshwaram,Plastic,LOW,CRITICAL,In Progress,2026-10-01 17:25,True
+NGK-1038,12.97034,77.74708,Ward 31 - Whitefield,Plastic,MEDIUM,CRITICAL,Pending,2026-10-01 10:34,True
+NGK-1039,12.92853,77.58519,Ward 07 - Jayanagar,Trash,LOW,HIGH,Assigned,2026-10-03 22:08,False
+NGK-1040,12.99956,77.55586,Ward 28 - Rajajinagar,Biological,HIGH,MEDIUM,Assigned,2026-09-30 06:35,False
+NGK-1041,12.91061,77.64271,Ward 15 - HSR Layout,Plastic,HIGH,CRITICAL,Pending,2026-10-06 22:36,False
+NGK-1042,12.97684,77.63836,Ward 12 - Indiranagar,Plastic,HIGH,CRITICAL,In Progress,2026-10-03 07:53,True
+NGK-1043,12.93057,77.58192,Ward 07 - Jayanagar,Plastic,HIGH,HIGH,Pending,2026-09-25 18:06,False
+NGK-1044,12.92746,77.58127,Ward 07 - Jayanagar,Battery,CRITICAL,HIGH,Pending,2026-09-24 08:52,False
+NGK-1045,12.84515,77.66004,Ward 09 - Electronic City,Plastic,MEDIUM,CRITICAL,In Progress,2026-10-03 00:29,True
